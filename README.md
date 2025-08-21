@@ -36,10 +36,10 @@ project-folder/
 ## How to Run
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git ```
+   git clone https://github.com/sai-janardhan716/HTML-CSS-PracticeProject1
 Navigate to the project folder:
 ```
-cd your-repo-name
+cd HTML-CSS-PracticeProject1
 ```
 Open project1.html in your browser.
 Run that file.

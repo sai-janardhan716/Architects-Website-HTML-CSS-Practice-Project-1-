@@ -14,7 +14,7 @@ I built this project for precticing on structuring web pages with semantic HTML 
 ---
 
 ## Preview
-![Website Preview](screencapture-127-0-0-1-5501-CSS-project-1-html-html-2025-08-21-21_10_11.png)
+[Website Preview](Images/WebsitePreview.png)
 
 ---
 

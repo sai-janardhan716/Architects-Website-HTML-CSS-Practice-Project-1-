@@ -35,18 +35,19 @@ project-folder/
 
 ## How to Run
 1. Clone this repository:
-   ```
-   git clone https://github.com/sai-janardhan716/HTML-CSS-PracticeProject1
-Navigate to the project folder:
+```
+git clone https://github.com/sai-janardhan716/HTML-CSS-PracticeProject1
+```
+2. Navigate to the project folder:
 ```
 cd HTML-CSS-PracticeProject1
 ```
-Open project1.html in your browser.
-Run that file.
+3. Open project1.html in your browser.
+4. Run that file.
 
 Purpose
-This project was created only for learning and practice purposes to strengthen my HTML & CSS skills.
-I referred to sample design templates from w3schools and customized them to apply my own understanding.
+- This project was created only for learning and practice purposes to strengthen my HTML & CSS skills.
+- I referred to sample design templates from w3schools and customized them to apply my own understanding.
 
 Future Improvements
 - Responsive layout with clean and modern design
